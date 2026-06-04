@@ -1,8 +1,25 @@
-# Cloudways Pricing Reference
+# Cloudways 价格、付款与 WordPress 主机参考 / Cloudways Pricing Reference
 
-A practical reference for understanding Cloudways pricing, billing, and WordPress hosting choices.
+中文用户优先：这个仓库用于辅助判断 Cloudways 价格、套餐、付款、账单和 WordPress 主机选择。最终目的是让你在注册或升级前先看懂费用结构、付款方式和适合场景，减少买错或后续账单误解。
 
-This repository is for people who want to compare Cloudways plans without turning the decision into a pure coupon hunt. It summarizes how the pricing model works, what to check before choosing a plan, and where to read more detailed setup guidance.
+## 中文用户快速入口
+
+如果你正在考虑购买或试用 Cloudways，建议按这个顺序看：
+
+1. [Cloudways 价格与套餐说明](https://www.wpcloudguide.com/pricing/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_cn_top_pricing)
+2. [Cloudways 中国用户付款方式](https://www.wpcloudguide.com/payment/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_cn_top_payment)
+3. [Cloudways 注册与 WordPress 建站教程](https://www.wpcloudguide.com/tutorial/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_cn_top_tutorial)
+4. [WordPress 主机怎么选](https://www.wpcloudguide.com/wordpress-hosting/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_cn_top_wordpress)
+
+中文文档：
+
+- [Cloudways 价格和套餐说明](docs/zh-cn/pricing.md)
+- [Cloudways 付款与账单说明](docs/zh-cn/payment.md)
+- [Cloudways 适合什么 WordPress 站点](docs/zh-cn/wordpress-hosting.md)
+
+## English Summary
+
+A practical reference for understanding Cloudways pricing, billing, and WordPress hosting choices. This repository is for people who want to compare Cloudways plans without turning the decision into a pure coupon hunt. It summarizes how the pricing model works, what to check before choosing a plan, and where to read more detailed setup guidance.
 
 > Independent reference. This project is not affiliated with, endorsed by, or operated by Cloudways.
 
@@ -71,4 +88,3 @@ data/cloudways-pricing-notes.json Source checklist and review metadata
 ## Contributing
 
 Corrections are welcome when they improve source quality, clarity, or decision usefulness. See [CONTRIBUTING.md](CONTRIBUTING.md).
-
