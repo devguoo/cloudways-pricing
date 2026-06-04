@@ -1,0 +1,40 @@
+{
+  "project": "cloudways-pricing",
+  "lastChecked": "2026-06-05",
+  "positioning": "Independent Cloudways pricing, billing, and WordPress hosting reference. GitHub repository supports source-led documentation and links to the Chinese Cloudways guide where useful.",
+  "officialSources": [
+    {
+      "name": "Cloudways Pricing",
+      "url": "https://www.cloudways.com/en/pricing.php",
+      "notes": "Use for live plan, provider, region, and promotion checks before purchase."
+    },
+    {
+      "name": "Guide to Billing at Cloudways",
+      "url": "https://support.cloudways.com/en/articles/5116158-guide-to-billing-at-cloudways",
+      "notes": "Use for pay-as-you-go, monthly invoice, payment method, and authorization hold explanations."
+    },
+    {
+      "name": "How do I resolve payment issues on Cloudways?",
+      "url": "https://support.cloudways.com/en/articles/13670639-how-do-i-resolve-payment-issues-on-cloudways",
+      "notes": "Use for card refusal, 3D Secure, billing permission, and overdue invoice troubleshooting."
+    },
+    {
+      "name": "Cloudways Autonomous",
+      "url": "https://www.cloudways.com/en/autonomous.php",
+      "notes": "Use for autoscaling, plan-based pricing, billing, and suitability notes."
+    }
+  ],
+  "relatedChineseGuides": [
+    "https://www.wpcloudguide.com/pricing/",
+    "https://www.wpcloudguide.com/payment/",
+    "https://www.wpcloudguide.com/tutorial/",
+    "https://www.wpcloudguide.com/wordpress-hosting/"
+  ],
+  "publicSafetyRules": [
+    "Do not include API keys, account tokens, affiliate dashboard screenshots, personal identifiers, payment details, or server credentials.",
+    "Do not claim official Cloudways status.",
+    "Do not present old prices as guaranteed current prices.",
+    "Do not add raw affiliate links to the README first screen."
+  ]
+}
+
