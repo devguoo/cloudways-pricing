@@ -72,6 +72,7 @@ For high-traffic, revenue-critical, or event-driven WordPress projects, evaluate
 - [Cloudways pricing guide](https://www.cloudwaysguide.com/cloudways-pricing.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_pricing_model)
 - [Cloudways review](https://www.cloudwaysguide.com/cloudways-review.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_pricing_model)
 - [Cloudways coupon and checkout notes](https://www.cloudwaysguide.com/cloudways-coupon.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_pricing_model)
+- [Cloudways alternatives](https://www.cloudwaysguide.com/cloudways-alternatives.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_pricing_model)
 
 ## 6. Related Chinese Guides
 

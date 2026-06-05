@@ -24,8 +24,9 @@ If you prefer English buying guides, use the English CloudwaysGuide pages instea
 1. [Cloudways pricing guide](https://www.cloudwaysguide.com/cloudways-pricing.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_top_pricing)
 2. [Cloudways review](https://www.cloudwaysguide.com/cloudways-review.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_top_review)
 3. [Cloudways coupon and checkout notes](https://www.cloudwaysguide.com/cloudways-coupon.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_top_coupon)
-
-More English tutorial and comparison pages can be linked after the remaining CloudwaysGuide pages finish their second consistency cleanup.
+4. [Cloudways setup guide](https://www.cloudwaysguide.com/cloudways-setup-guide.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_top_setup)
+5. [Cloudways WordPress hosting guide](https://www.cloudwaysguide.com/cloudways-wordpress-hosting.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_top_wordpress)
+6. [Cloudways free trial guide](https://www.cloudwaysguide.com/cloudways-free-trial.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_top_free_trial)
 
 ## English Summary
 
@@ -63,6 +64,14 @@ If you prefer Chinese explanations, these pages explain the same decision path i
 - [Cloudways 价格与套餐说明](https://www.wpcloudguide.com/pricing/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_pricing)
 - [Cloudways 中国用户付款方式](https://www.wpcloudguide.com/payment/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_payment)
 - [Cloudways 注册与 WordPress 建站教程](https://www.wpcloudguide.com/tutorial/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_tutorial)
+
+## More English Comparison Guides
+
+For comparison-driven research, start with:
+
+- [Cloudways alternatives](https://www.cloudwaysguide.com/cloudways-alternatives.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_more_alternatives)
+- [Cloudways vs Kinsta](https://www.cloudwaysguide.com/cloudways-vs-kinsta.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_more_kinsta)
+- [Cloudways vs DigitalOcean](https://www.cloudwaysguide.com/cloudways-vs-digitalocean.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_more_digitalocean)
 
 ## Current Notes
 

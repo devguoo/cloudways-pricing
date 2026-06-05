@@ -1,7 +1,7 @@
 {
   "project": "cloudways-pricing",
   "lastChecked": "2026-06-05",
-  "positioning": "Independent Cloudways pricing, billing, and WordPress hosting reference. GitHub repository supports source-led documentation and links to the Chinese Cloudways guide where useful.",
+  "positioning": "Independent Cloudways pricing, billing, and WordPress hosting reference. GitHub repository supports source-led documentation and routes English readers to CloudwaysGuide while routing Chinese readers to WPCloudGuide where useful.",
   "officialSources": [
     {
       "name": "Cloudways Pricing",
@@ -33,7 +33,15 @@
   "relatedEnglishGuides": [
     "https://www.cloudwaysguide.com/cloudways-pricing.html",
     "https://www.cloudwaysguide.com/cloudways-review.html",
-    "https://www.cloudwaysguide.com/cloudways-coupon.html"
+    "https://www.cloudwaysguide.com/cloudways-coupon.html",
+    "https://www.cloudwaysguide.com/cloudways-setup-guide.html",
+    "https://www.cloudwaysguide.com/cloudways-wordpress-hosting.html",
+    "https://www.cloudwaysguide.com/cloudways-free-trial.html",
+    "https://www.cloudwaysguide.com/cloudways-migration-guide.html",
+    "https://www.cloudwaysguide.com/cloudways-alternatives.html",
+    "https://www.cloudwaysguide.com/best-managed-cloud-hosting.html",
+    "https://www.cloudwaysguide.com/cloudways-vs-kinsta.html",
+    "https://www.cloudwaysguide.com/cloudways-vs-digitalocean.html"
   ],
   "publicSafetyRules": [
     "Do not include API keys, account tokens, affiliate dashboard screenshots, personal identifiers, payment details, or server credentials.",

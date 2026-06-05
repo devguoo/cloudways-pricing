@@ -44,7 +44,8 @@ Use this checklist:
 
 - [Cloudways coupon and checkout notes](https://www.cloudwaysguide.com/cloudways-coupon.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_billing_notes)
 - [Cloudways pricing guide](https://www.cloudwaysguide.com/cloudways-pricing.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_billing_notes)
-- [Cloudways review](https://www.cloudwaysguide.com/cloudways-review.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_billing_notes)
+- [Cloudways free trial guide](https://www.cloudwaysguide.com/cloudways-free-trial.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_billing_notes)
+- [Cloudways setup guide](https://www.cloudwaysguide.com/cloudways-setup-guide.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_billing_notes)
 
 ## 7. Related Chinese Guides
 

@@ -43,10 +43,10 @@ Before choosing a plan:
 
 ## Related English Guides
 
-- [Cloudways review](https://www.cloudwaysguide.com/cloudways-review.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_wordpress_hosting)
-- [Cloudways pricing guide](https://www.cloudwaysguide.com/cloudways-pricing.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_wordpress_hosting)
-
-WordPress-specific English pages should be linked here after the remaining CloudwaysGuide tutorial pages finish their second consistency cleanup.
+- [Cloudways WordPress hosting guide](https://www.cloudwaysguide.com/cloudways-wordpress-hosting.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_wordpress_hosting)
+- [Cloudways setup guide](https://www.cloudwaysguide.com/cloudways-setup-guide.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_wordpress_hosting)
+- [Cloudways migration guide](https://www.cloudwaysguide.com/cloudways-migration-guide.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_wordpress_hosting)
+- [Best managed cloud hosting guide](https://www.cloudwaysguide.com/best-managed-cloud-hosting.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_wordpress_hosting)
 
 ## Related Chinese Guides
 
