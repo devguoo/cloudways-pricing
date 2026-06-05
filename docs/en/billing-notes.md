@@ -40,7 +40,13 @@ Use this checklist:
 - Keep a record of when servers or applications are created or deleted.
 - Review the first invoice after the first billing cycle.
 
-## 6. Related Chinese Guides
+## 6. Related English Guides
+
+- [Cloudways coupon and checkout notes](https://www.cloudwaysguide.com/cloudways-coupon.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_billing_notes)
+- [Cloudways pricing guide](https://www.cloudwaysguide.com/cloudways-pricing.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_billing_notes)
+- [Cloudways review](https://www.cloudwaysguide.com/cloudways-review.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_billing_notes)
+
+## 7. Related Chinese Guides
 
 - [Cloudways 中国用户付款方式](https://www.wpcloudguide.com/payment/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_billing_notes)
 - [Cloudways 价格与套餐说明](https://www.wpcloudguide.com/pricing/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_billing_notes)
@@ -49,4 +55,3 @@ Use this checklist:
 
 - [Guide to Billing at Cloudways](https://support.cloudways.com/en/articles/5116158-guide-to-billing-at-cloudways)
 - [How do I resolve payment issues on Cloudways?](https://support.cloudways.com/en/articles/13670639-how-do-i-resolve-payment-issues-on-cloudways)
-

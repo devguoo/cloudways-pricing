@@ -67,7 +67,13 @@ For a new WordPress site, the safer path is usually:
 
 For high-traffic, revenue-critical, or event-driven WordPress projects, evaluate Autonomous separately.
 
-## 5. Related Chinese Guides
+## 5. Related English Guides
+
+- [Cloudways pricing guide](https://www.cloudwaysguide.com/cloudways-pricing.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_pricing_model)
+- [Cloudways review](https://www.cloudwaysguide.com/cloudways-review.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_pricing_model)
+- [Cloudways coupon and checkout notes](https://www.cloudwaysguide.com/cloudways-coupon.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_pricing_model)
+
+## 6. Related Chinese Guides
 
 - [Cloudways 价格与套餐说明](https://www.wpcloudguide.com/pricing/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_pricing_model)
 - [Cloudways 注册与 WordPress 建站教程](https://www.wpcloudguide.com/tutorial/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_pricing_model)
@@ -77,4 +83,3 @@ For high-traffic, revenue-critical, or event-driven WordPress projects, evaluate
 - [Cloudways pricing](https://www.cloudways.com/en/pricing.php)
 - [Cloudways billing guide](https://support.cloudways.com/en/articles/5116158-guide-to-billing-at-cloudways)
 - [Cloudways Autonomous](https://www.cloudways.com/en/autonomous.php)
-

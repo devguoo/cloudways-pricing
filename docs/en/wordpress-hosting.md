@@ -41,8 +41,14 @@ Before choosing a plan:
 - Who will monitor backups, SSL, updates, and invoices?
 - What is the upgrade trigger: traffic, admin speed, checkout speed, or client demand?
 
+## Related English Guides
+
+- [Cloudways review](https://www.cloudwaysguide.com/cloudways-review.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_wordpress_hosting)
+- [Cloudways pricing guide](https://www.cloudwaysguide.com/cloudways-pricing.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_wordpress_hosting)
+
+WordPress-specific English pages should be linked here after the remaining CloudwaysGuide tutorial pages finish their second consistency cleanup.
+
 ## Related Chinese Guides
 
 - [WordPress 主机怎么选](https://www.wpcloudguide.com/wordpress-hosting/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_wordpress_hosting)
 - [Cloudways 注册与 WordPress 建站教程](https://www.wpcloudguide.com/tutorial/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=en_wordpress_hosting)
-

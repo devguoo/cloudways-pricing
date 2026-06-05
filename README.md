@@ -17,6 +17,16 @@
 - [Cloudways 付款与账单说明](docs/zh-cn/payment.md)
 - [Cloudways 适合什么 WordPress 站点](docs/zh-cn/wordpress-hosting.md)
 
+## English Reader Entry Points
+
+If you prefer English buying guides, use the English CloudwaysGuide pages instead of the Chinese site:
+
+1. [Cloudways pricing guide](https://www.cloudwaysguide.com/cloudways-pricing.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_top_pricing)
+2. [Cloudways review](https://www.cloudwaysguide.com/cloudways-review.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_top_review)
+3. [Cloudways coupon and checkout notes](https://www.cloudwaysguide.com/cloudways-coupon.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_top_coupon)
+
+More English tutorial and comparison pages can be linked after the remaining CloudwaysGuide pages finish their second consistency cleanup.
+
 ## English Summary
 
 A practical reference for understanding Cloudways pricing, billing, and WordPress hosting choices. This repository is for people who want to compare Cloudways plans without turning the decision into a pure coupon hunt. It summarizes how the pricing model works, what to check before choosing a plan, and where to read more detailed setup guidance.
@@ -29,6 +39,7 @@ A practical reference for understanding Cloudways pricing, billing, and WordPres
 - Monthly and hourly billing concepts.
 - Payment and invoice checkpoints.
 - WordPress hosting decision notes.
+- English CloudwaysGuide pages for English readers.
 - Chinese-language purchase and setup guides for users who prefer Chinese instructions.
 
 ## Quick Start
@@ -36,7 +47,7 @@ A practical reference for understanding Cloudways pricing, billing, and WordPres
 1. Read [Pricing Model](docs/en/pricing-model.md) to understand the two Cloudways hosting routes.
 2. Read [Billing Notes](docs/en/billing-notes.md) before adding payment methods or launching servers.
 3. Read [WordPress Hosting Notes](docs/en/wordpress-hosting.md) if you are choosing Cloudways for a WordPress, WooCommerce, agency, or business site.
-4. Check the official Cloudways pricing page before purchase because prices, promos, providers, regions, and add-ons can change.
+4. Use the English CloudwaysGuide pages above for buying context, then check the official Cloudways checkout before purchase because prices, promos, providers, regions, and add-ons can change.
 
 ## Official References
 

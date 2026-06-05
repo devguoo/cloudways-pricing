@@ -30,6 +30,11 @@
     "https://www.wpcloudguide.com/tutorial/",
     "https://www.wpcloudguide.com/wordpress-hosting/"
   ],
+  "relatedEnglishGuides": [
+    "https://www.cloudwaysguide.com/cloudways-pricing.html",
+    "https://www.cloudwaysguide.com/cloudways-review.html",
+    "https://www.cloudwaysguide.com/cloudways-coupon.html"
+  ],
   "publicSafetyRules": [
     "Do not include API keys, account tokens, affiliate dashboard screenshots, personal identifiers, payment details, or server credentials.",
     "Do not claim official Cloudways status.",
@@ -37,4 +42,3 @@
     "Do not add raw affiliate links to the README first screen."
   ]
 }
-
