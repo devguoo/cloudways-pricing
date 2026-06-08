@@ -1,6 +1,10 @@
-# Cloudways 价格、付款与 WordPress 主机参考 / Cloudways Pricing Reference
+# Cloudways Pricing, Billing and WordPress Hosting Reference / Cloudways 价格、付款与 WordPress 主机参考
 
 中文用户优先：这个仓库用于辅助判断 Cloudways 价格、套餐、付款、账单和 WordPress 主机选择。最终目的是让你在注册或升级前先看懂费用结构、付款方式和适合场景，减少买错或后续账单误解。
+
+GitHub Pages reference:
+
+- [Cloudways pricing, billing and WordPress hosting guide](https://devguoo.github.io/cloudways-pricing/?utm_source=github&utm_medium=readme&utm_campaign=cloudways_pricing&utm_content=readme_pages_entry)
 
 ## 中文用户快速入口
 
