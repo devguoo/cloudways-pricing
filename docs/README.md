@@ -11,6 +11,7 @@ Final prices, regions, providers, promotions, invoices and add-ons can change. A
 | Understand current pricing logic | [Cloudways pricing guide](https://www.cloudwaysguide.com/cloudways-pricing.html?utm_source=github&utm_medium=pages&utm_campaign=cloudways_pricing&utm_content=pages_home_pricing) | Compare Flexible, Autonomous, provider choice, region and final price factors |
 | Decide whether Cloudways fits your site | [Cloudways review](https://www.cloudwaysguide.com/cloudways-review.html?utm_source=github&utm_medium=pages&utm_campaign=cloudways_pricing&utm_content=pages_home_review) | Check fit before focusing on coupons or provider names |
 | Check coupon and checkout notes | [Cloudways coupon guide](https://www.cloudwaysguide.com/cloudways-coupon.html?utm_source=github&utm_medium=pages&utm_campaign=cloudways_pricing&utm_content=pages_home_coupon) | Learn how to test a coupon without treating it as guaranteed |
+| Verify the final amount before paying | [Cloudways checkout price checklist](en/checkout-price-checklist.md) | Check route, provider, region, add-ons, coupon behavior and first invoice risk |
 | Build or migrate WordPress | [Cloudways setup guide](https://www.cloudwaysguide.com/cloudways-setup-guide.html?utm_source=github&utm_medium=pages&utm_campaign=cloudways_pricing&utm_content=pages_home_setup) | Understand the practical steps before launching a server |
 | Compare managed hosting alternatives | [Cloudways alternatives](https://www.cloudwaysguide.com/cloudways-alternatives.html?utm_source=github&utm_medium=pages&utm_campaign=cloudways_pricing&utm_content=pages_home_alternatives) | Useful when comparing Cloudways with Kinsta, DigitalOcean or other managed options |
 | Prefer Chinese explanations | [Cloudways 中文价格说明](https://www.wpcloudguide.com/pricing/?utm_source=github&utm_medium=pages&utm_campaign=cloudways_pricing&utm_content=pages_home_cn_pricing) | 中文用户可以从价格、付款和建站教程开始 |
@@ -29,12 +30,14 @@ Final prices, regions, providers, promotions, invoices and add-ons can change. A
 English docs:
 
 - [Cloudways pricing model](en/pricing-model.md)
+- [Cloudways checkout price checklist](en/checkout-price-checklist.md)
 - [Cloudways billing notes](en/billing-notes.md)
 - [Cloudways WordPress hosting notes](en/wordpress-hosting.md)
 
 中文文档：
 
 - [Cloudways 价格和套餐说明](zh-cn/pricing.md)
+- [Cloudways 结账前价格检查清单](zh-cn/checkout-price-checklist.md)
 - [Cloudways 付款与账单说明](zh-cn/payment.md)
 - [Cloudways WordPress 主机选择说明](zh-cn/wordpress-hosting.md)
 
