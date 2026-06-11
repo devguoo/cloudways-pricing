@@ -4,6 +4,8 @@
 
 Cloudways 价格不能只看一个“最低月费”。真正购买前要同时看产品路线、云厂商、服务器配置、机房、运行时间、备份和附加服务。
 
+如果你想先看完整中文入口，可以回到：[Cloudways 中文价格、付款与 WordPress 主机入口](./)。
+
 ## 1. 两条主要路线
 
 ### Flexible：可控配置路线
@@ -62,4 +64,3 @@ Autonomous 更适合已经有流量压力或动态业务的 WordPress 站点：
 
 - [Cloudways 官方价格页](https://www.cloudways.com/en/pricing.php)
 - [Cloudways Billing Guide](https://support.cloudways.com/en/articles/5116158-guide-to-billing-at-cloudways)
-

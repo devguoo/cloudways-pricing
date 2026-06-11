@@ -14,7 +14,12 @@ Final prices, regions, providers, promotions, invoices and add-ons can change. A
 | Verify the final amount before paying | [Cloudways checkout price checklist](en/checkout-price-checklist.md) | Check route, provider, region, add-ons, coupon behavior and first invoice risk |
 | Build or migrate WordPress | [Cloudways setup guide](https://www.cloudwaysguide.com/cloudways-setup-guide.html?utm_source=github&utm_medium=pages&utm_campaign=cloudways_pricing&utm_content=pages_home_setup) | Understand the practical steps before launching a server |
 | Compare managed hosting alternatives | [Cloudways alternatives](https://www.cloudwaysguide.com/cloudways-alternatives.html?utm_source=github&utm_medium=pages&utm_campaign=cloudways_pricing&utm_content=pages_home_alternatives) | Useful when comparing Cloudways with Kinsta, DigitalOcean or other managed options |
-| Prefer Chinese explanations | [Cloudways 中文价格说明](https://www.wpcloudguide.com/pricing/?utm_source=github&utm_medium=pages&utm_campaign=cloudways_pricing&utm_content=pages_home_cn_pricing) | 中文用户可以从价格、付款和建站教程开始 |
+| Prefer Chinese explanations | [Cloudways 中文价格、付款与 WordPress 主机入口](zh-cn/) | 中文用户可以从价格、付款和建站教程开始 |
+
+## Language Entry Points
+
+- [English: Cloudways pricing, billing and WordPress hosting guide](./)
+- [中文：Cloudways 价格、付款与 WordPress 主机入口](zh-cn/)
 
 ## Quick Decision Path
 
@@ -36,6 +41,7 @@ English docs:
 
 中文文档：
 
+- [Cloudways 中文入口](zh-cn/)
 - [Cloudways 价格和套餐说明](zh-cn/pricing.md)
 - [Cloudways 结账前价格检查清单](zh-cn/checkout-price-checklist.md)
 - [Cloudways 付款与账单说明](zh-cn/payment.md)

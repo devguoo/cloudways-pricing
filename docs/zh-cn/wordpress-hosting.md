@@ -4,6 +4,8 @@
 
 Cloudways 不是传统虚拟主机，也不是自己从零维护的裸 VPS。它更像是把底层云服务器、WordPress 部署、SSL、备份、缓存和管理面板组合起来的托管云主机。
 
+如果你想先看完整中文入口，可以回到：[Cloudways 中文价格、付款与 WordPress 主机入口](./)。
+
 ## 适合的人
 
 更适合：
@@ -39,4 +41,3 @@ Cloudways 不是传统虚拟主机，也不是自己从零维护的裸 VPS。它
 
 - [WordPress 主机怎么选](https://www.wpcloudguide.com/wordpress-hosting/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=zh_wordpress_hosting)
 - [Cloudways 注册与 WordPress 建站教程](https://www.wpcloudguide.com/tutorial/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=zh_wordpress_hosting)
-

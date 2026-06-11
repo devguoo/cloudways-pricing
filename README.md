@@ -1,30 +1,17 @@
-# Cloudways Pricing, Billing and WordPress Hosting Reference / Cloudways 价格、付款与 WordPress 主机参考
+# Cloudways Pricing, Billing and WordPress Hosting Reference
 
-中文用户优先：这个仓库用于辅助判断 Cloudways 价格、套餐、付款、账单和 WordPress 主机选择。最终目的是让你在注册或升级前先看懂费用结构、付款方式和适合场景，减少买错或后续账单误解。
+A practical reference for understanding Cloudways pricing, billing, payment and WordPress hosting choices. This repository is English-first, with a clear Chinese entry for readers who prefer Chinese explanations.
+
+It is designed to help you compare Cloudways routes before opening the official checkout: Flexible vs Autonomous, provider choice, region, add-ons, billing behavior, payment readiness and WordPress fit.
 
 GitHub Pages reference:
 
-- [Cloudways pricing, billing and WordPress hosting guide](https://devguoo.github.io/cloudways-pricing/?utm_source=github&utm_medium=readme&utm_campaign=cloudways_pricing&utm_content=readme_pages_entry)
-
-## 中文用户快速入口
-
-如果你正在考虑购买或试用 Cloudways，建议按这个顺序看：
-
-1. [Cloudways 价格与套餐说明](https://www.wpcloudguide.com/pricing/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_cn_top_pricing)
-2. [Cloudways 中国用户付款方式](https://www.wpcloudguide.com/payment/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_cn_top_payment)
-3. [Cloudways 注册与 WordPress 建站教程](https://www.wpcloudguide.com/tutorial/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_cn_top_tutorial)
-4. [WordPress 主机怎么选](https://www.wpcloudguide.com/wordpress-hosting/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_cn_top_wordpress)
-
-中文文档：
-
-- [Cloudways 价格和套餐说明](docs/zh-cn/pricing.md)
-- [Cloudways 结账前价格检查清单](docs/zh-cn/checkout-price-checklist.md)
-- [Cloudways 付款与账单说明](docs/zh-cn/payment.md)
-- [Cloudways 适合什么 WordPress 站点](docs/zh-cn/wordpress-hosting.md)
+- [English: Cloudways pricing, billing and WordPress hosting guide](https://devguoo.github.io/cloudways-pricing/?utm_source=github&utm_medium=readme&utm_campaign=cloudways_pricing&utm_content=readme_pages_entry_en)
+- [中文：Cloudways 价格、付款与 WordPress 主机入口](https://devguoo.github.io/cloudways-pricing/zh-cn/?utm_source=github&utm_medium=readme&utm_campaign=cloudways_pricing&utm_content=readme_pages_entry_zh)
 
 ## English Reader Entry Points
 
-If you prefer English buying guides, use the English CloudwaysGuide pages instead of the Chinese site:
+If you prefer English buying guides, use the English CloudwaysGuide pages:
 
 1. [Cloudways pricing guide](https://www.cloudwaysguide.com/cloudways-pricing.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_top_pricing)
 2. [Cloudways review](https://www.cloudwaysguide.com/cloudways-review.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_top_review)
@@ -33,7 +20,25 @@ If you prefer English buying guides, use the English CloudwaysGuide pages instea
 5. [Cloudways WordPress hosting guide](https://www.cloudwaysguide.com/cloudways-wordpress-hosting.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_top_wordpress)
 6. [Cloudways free trial guide](https://www.cloudwaysguide.com/cloudways-free-trial.html?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_en_top_free_trial)
 
-## English Summary
+## 中文用户快速入口
+
+如果你正在考虑购买或试用 Cloudways，建议按这个顺序看：
+
+1. [Cloudways 中文价格、付款与 WordPress 主机入口](https://devguoo.github.io/cloudways-pricing/zh-cn/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_cn_top_home)
+2. [Cloudways 价格与套餐说明](https://www.wpcloudguide.com/pricing/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_cn_top_pricing)
+3. [Cloudways 中国用户付款方式](https://www.wpcloudguide.com/payment/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_cn_top_payment)
+4. [Cloudways 注册与 WordPress 建站教程](https://www.wpcloudguide.com/tutorial/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_cn_top_tutorial)
+5. [WordPress 主机怎么选](https://www.wpcloudguide.com/wordpress-hosting/?utm_source=github&utm_medium=referral&utm_campaign=cloudways_pricing&utm_content=readme_cn_top_wordpress)
+
+中文文档：
+
+- [Cloudways 中文价格、付款与 WordPress 主机入口](docs/zh-cn/README.md)
+- [Cloudways 价格和套餐说明](docs/zh-cn/pricing.md)
+- [Cloudways 结账前价格检查清单](docs/zh-cn/checkout-price-checklist.md)
+- [Cloudways 付款与账单说明](docs/zh-cn/payment.md)
+- [Cloudways 适合什么 WordPress 站点](docs/zh-cn/wordpress-hosting.md)
+
+## Project Summary
 
 A practical reference for understanding Cloudways pricing, billing, and WordPress hosting choices. This repository is for people who want to compare Cloudways plans without turning the decision into a pure coupon hunt. It summarizes how the pricing model works, what to check before choosing a plan, and where to read more detailed setup guidance.
 
@@ -99,6 +104,7 @@ docs/en/pricing-model.md       English pricing model notes
 docs/en/billing-notes.md       English billing and payment notes
 docs/en/wordpress-hosting.md   English WordPress hosting decision notes
 docs/en/checkout-price-checklist.md English checkout and final-price checklist
+docs/zh-cn/README.md           中文价格、付款与 WordPress 主机入口
 docs/zh-cn/pricing.md          中文价格和套餐说明
 docs/zh-cn/payment.md          中文付款与账单说明
 docs/zh-cn/wordpress-hosting.md 中文 WordPress 主机选择说明
